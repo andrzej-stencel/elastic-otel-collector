@@ -1,0 +1,1 @@
+# Elastic OTel Collector
